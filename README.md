@@ -19,14 +19,12 @@ Select Finalize and you'll be displayed with the id of the poll to be shared wit
 <b>To monitor an existing poll</b>:<br />
 To view the results of the existing polls we need to go to the ToolBox and select view my polls option, this brings up the poll
 manager module.
-<p />
 To see the results of an existing poll we can select Get Poll Stats Option.<br />
-![14](https://user-images.githubusercontent.com/32017154/46360478-2813b700-c689-11e8-84d9-220d9efa9650.png)
-
+![3](https://user-images.githubusercontent.com/32017154/46360478-2813b700-c689-11e8-84d9-220d9efa9650.png)
 <p />
 <b>To vote for an existing poll</b>:<br />
 Simply enter the poll id in the application and select Get Poll<br />
 Make your mind and select the option and select Vote<br />
-![13](https://user-images.githubusercontent.com/32017154/46360626-79bc4180-c689-11e8-9db8-71c5ff732a92.png)
+![4](https://user-images.githubusercontent.com/32017154/46360626-79bc4180-c689-11e8-9db8-71c5ff732a92.png)
 
 
