@@ -13,6 +13,10 @@
   <property name="windowTitle">
    <string>Poll Statistics</string>
   </property>
+  <property name="windowIcon">
+   <iconset>
+    <normaloff>vote.png</normaloff>vote.png</iconset>
+  </property>
   <widget class="QWidget" name="centralwidget">
    <widget class="QLabel" name="pollidLBL">
     <property name="geometry">
@@ -55,7 +59,7 @@
       <height>381</height>
      </rect>
     </property>
-    <layout class="QVBoxLayout" name="PHolder" stretch="">
+    <layout class="QVBoxLayout" name="PHolder">
      <property name="sizeConstraint">
       <enum>QLayout::SetMinimumSize</enum>
      </property>

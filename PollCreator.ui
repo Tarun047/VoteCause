@@ -19,6 +19,10 @@
   <property name="windowTitle">
    <string>Create Poll</string>
   </property>
+  <property name="windowIcon">
+   <iconset>
+    <normaloff>vote.png</normaloff>vote.png</iconset>
+  </property>
   <property name="layoutDirection">
    <enum>Qt::LeftToRight</enum>
   </property>
