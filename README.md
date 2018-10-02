@@ -21,7 +21,7 @@ To view the results of the existing polls we need to go to the ToolBox and selec
 manager module.
 
 ![6](https://user-images.githubusercontent.com/32017154/46361427-3d89e080-c68b-11e8-9985-737db3c43dca.png)<br />
-To see the results of an existing poll we can select the required poll from the polls list and then sekect Get Poll Stats Option.<br />
+To see the results of an existing poll we can select the required poll from the polls list and then select Get Poll Stats Option.<br />
 ![3](https://user-images.githubusercontent.com/32017154/46360478-2813b700-c689-11e8-84d9-220d9efa9650.png)<br />
 <br />
 <b>To vote for an existing poll</b>:<br />
