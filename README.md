@@ -9,7 +9,7 @@ Python 3
 Download the repository and run main file<br />
 <b>To create a new Poll<b>:<br />
 Once the application opens up we have the Tool Box at the top of the application in the Navigation Bar.
-![1](https://user-images.githubusercontent.com/32017154/46359915-df0f3300-c687-11e8-9f0a-52d45b54d4a1.png)<br />
+![1](https://user-images.githubusercontent.com/32017154/46360973-2d253600-c68a-11e8-88cf-ca5513f4b30a.png)
 <br />
 Select the Tool box and then choose Create Poll option<br />
 Fill in the question field and then add the appropriate options/selections to the question<br />
