@@ -16,7 +16,7 @@ Fill in the question field and then add the appropriate options/selections to th
 ![2](https://user-images.githubusercontent.com/32017154/46360185-88562900-c688-11e8-83af-2942548f1621.png)<br />
 Select Finalize and you'll be displayed with the id of the poll to be shared with the voters. This id also gets auto saved in the Poll Manager module of the application for later use.<br />
 <p />
-<b>To monitor an existing poll<b>:<br />
+<b>To monitor an existing poll</b>:<br />
 To view the results of the existing polls we need to go to the ToolBox and select view my polls option, this brings up the poll
 manager module.
 <p />
