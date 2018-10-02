@@ -7,7 +7,7 @@ Python 3
 
 # Usage
 Download the repository and run main file<br />
-<b>To create a new Poll<b>:<br />
+<b>To create a new Poll</b>:<br />
 Once the application opens up we have the Tool Box at the top of the application in the Navigation Bar.
 ![1](https://user-images.githubusercontent.com/32017154/46360973-2d253600-c68a-11e8-88cf-ca5513f4b30a.png)
 <br />
