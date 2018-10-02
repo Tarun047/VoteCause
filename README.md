@@ -15,14 +15,13 @@ Select the Tool box and then choose Create Poll option<br />
 Fill in the question field and then add the appropriate options/selections to the question<br />
 ![2](https://user-images.githubusercontent.com/32017154/46360185-88562900-c688-11e8-83af-2942548f1621.png)<br />
 Select Finalize and you'll be displayed with the id of the poll to be shared with the voters. This id also gets auto saved in the Poll Manager module of the application for later use.<br />
-<p />
+<br />
 <b>To monitor an existing poll</b>:<br />
 To view the results of the existing polls we need to go to the ToolBox and select view my polls option, this brings up the poll
 manager module.
 To see the results of an existing poll we can select Get Poll Stats Option.<br />
-![2](https://user-images.githubusercontent.com/32017154/46360185-88562900-c688-11e8-83af-2942548f1621.png)<br />
 ![3](https://user-images.githubusercontent.com/32017154/46360478-2813b700-c689-11e8-84d9-220d9efa9650.png)<br />
-<p />
+<br />
 <b>To vote for an existing poll</b>:<br />
 Simply enter the poll id in the application and select Get Poll<br />
 Make your mind and select the option and select Vote<br />
