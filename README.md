@@ -3,7 +3,7 @@
 The FLO Block Chain based Voting application, it can be used to post polls to the block chain.<br />
 Since the application uses block chain it is much secure than the traditional applications.<br /> 
 # Requirements:
-Python 3
+Python 3<br />
 FLO - Core
 
 # Usage
